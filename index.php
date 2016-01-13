@@ -63,7 +63,10 @@ $dbh=null;
                         
                         </ul>                 
                     </div>
-                    <p>DB連携練習、この新着情報の更新は管理画面<a href="admin/index.php" target="blank">admin/index.php</a>から更新できます</p>
+                    <p>
+                    DB連携練習、この新着情報の更新は管理画面<a href="admin/index.php" target="blank">admin/index.php</a>から更新できます<br>
+                    ソースコードはgithubにあげています<a href="https://github.com/makotoschool/dbconnection" target="blank">https://github.com/makotoschool/dbconnection</a>
+                    </p>
                 </article>
 				<article class="content_sentence">
                     <h2 class="mid padding40">Title</h2>
